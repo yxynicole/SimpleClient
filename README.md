@@ -1,5 +1,5 @@
 # SimpleClient
-#### 5700CS_PJ1
+#### 5700CS_PJ1, Prof Choffnes
 ## Approach
 This client program intends to solve all mathematical expressions from a server.
 Before the Q&A session starts, they need sockets to establish a connection between them. 
